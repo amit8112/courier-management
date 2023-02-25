@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/courier-management/static/css/main.257dfd6b.css",
+    "main.js": "/courier-management/static/js/main.c7fa6c75.js",
+    "index.html": "/courier-management/index.html",
+    "main.257dfd6b.css.map": "/courier-management/static/css/main.257dfd6b.css.map",
+    "main.c7fa6c75.js.map": "/courier-management/static/js/main.c7fa6c75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.257dfd6b.css",
+    "static/js/main.c7fa6c75.js"
+  ]
+}
