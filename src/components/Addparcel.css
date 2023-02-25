@@ -1,0 +1,28 @@
+.form-group{
+    margin-bottom: 1rem;
+    justify-items: center;
+    margin-left: 50px;
+}
+label{
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+input{
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ccc;
+    margin-left: 2px;
+
+}
+button{
+    padding: 0.5rem;
+    background-color: blue;
+    color: white;
+    border-radius: 0.25rem;
+    border: none;
+    cursor: pointer;
+}
+.container{
+    margin-left: 30%;
+}

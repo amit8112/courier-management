@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+   
+}
+table, td,th {
+    border: 1px solid;
+}
+button{
+    padding: 0.5rem;
+    
+    color: white;
+    border-radius: 0.25rem;
+    border: none;
+    cursor: pointer;
+}
+.edit-btn{
+    background-color: green;
+}
+.delete-btn{
+    background-color: red;
+    margin-left: 5px;
+}
